@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+*.log
+.env*
+.DS_Store
+data/cms.json
+data/bookings.json
+public/uploads/*
+!public/uploads/.gitkeep
